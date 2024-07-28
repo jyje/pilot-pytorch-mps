@@ -1,0 +1,6 @@
+# vscode
+.vscode/
+
+# python and pyenv
+.python-version
+__pycache__/
